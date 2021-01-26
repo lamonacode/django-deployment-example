@@ -28,7 +28,7 @@ SECRET_KEY = 'klwvecv2!0%7k_57rgbtupyl2ree*d#dp#c9+5l8=t#^6c%)*#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://lamonacode.pythonanywhere.com/']
+ALLOWED_HOSTS = ['lamonacode.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
